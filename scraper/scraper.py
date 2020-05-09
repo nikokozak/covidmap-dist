@@ -88,7 +88,7 @@ def job():
 
     s.enter(delay, 1, job)
 
-s.enter(delay, 1, job)
+s.enter(1, 1, job)
 
 s.run()
 
