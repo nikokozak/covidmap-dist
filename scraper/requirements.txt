@@ -1,0 +1,7 @@
+setuptools
+requests
+pandas
+numpy
+datetime
+pprint
+configparser

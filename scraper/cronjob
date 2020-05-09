@@ -1,0 +1,4 @@
+SHELL=/bin/bash
+
+*1 * * * * python3 /usr/scraper/scraper.py
+

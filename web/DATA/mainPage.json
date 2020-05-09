@@ -1,0 +1,1 @@
+{"latest": "2020-05-08", "totals": {"count": 25972.0, "delta": -142}, "new": {"count": 1391.0, "delta": -643}, "recovered": {"count": 12160.0, "delta": 21}, "dead": {"count": 294.0, "delta": 5}, "ventilators": {"count": 595}, "pcr": {"count": 11735}, "uci": {"count": 508}, "tasa": {"count": 39.22}, "critical": {"count": 79}, "dupDays": {"count": 18.7}}

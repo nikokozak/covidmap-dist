@@ -1,0 +1,444 @@
+
+2020-05-06 - 13:18:37 - Succesfully wrote new data to file ../public/DATA/uci.json. Date on new data was 2020-05-06.
+
+2020-05-06 - 13:28:40 - Succesfully wrote new data to file ../public/DATA/uci.json. Date on new data was 2020-05-06.
+
+2020-05-06 - 13:28:40 - Succesfully wrote new data to file ../public/DATA/testing.json. Date on new data was 2020/05/06.
+
+2020-05-06 - 13:28:41 - Succesfully wrote new data to file ../public/DATA/comunal.json. Date on new data was 2020/05/04.
+
+2020-05-06 - 13:29:11 - Failed to write new dat to file ../public/DATA/uci.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 13:29:11 - Failed to write new dat to file ../public/DATA/testing.json. Date on old data was 2020/05/06. On new data 2020/05/06.
+
+2020-05-06 - 13:29:11 - Failed to write new dat to file ../public/DATA/comunal.json. Date on old data was 2020/05/04. On new data 2020/05/04.
+
+2020-05-06 - 13:29:12 - Succesfully wrote new data to file ../public/DATA/regional.json. Date on new data was 2020/05/01.
+
+2020-05-06 - 13:29:12 - Succesfully wrote new data to file ../public/DATA/ventilator.json. Date on new data was 2020-05-06.
+
+2020-05-06 - 13:29:12 - Succesfully wrote new data to file ../public/DATA/totals.json. Date on new data was 2020-05-06.
+
+2020-05-06 - 13:29:13 - Failed to write new dat to file ../public/DATA/critical.json. Date on old data was 2010/0/1. On new data .
+
+2020-05-06 - 13:31:56 - Succesfully wrote new data to file ../public/DATA/uci.json. Date on new data was 2020-05-06.
+
+2020-05-06 - 13:31:56 - Succesfully wrote new data to file ../public/DATA/testing.json. Date on new data was 2020/05/06.
+
+2020-05-06 - 13:31:57 - Succesfully wrote new data to file ../public/DATA/comunal.json. Date on new data was 2020/05/04.
+
+2020-05-06 - 13:31:57 - Succesfully wrote new data to file ../public/DATA/regional.json. Date on new data was 2020/05/01.
+
+2020-05-06 - 13:31:57 - Succesfully wrote new data to file ../public/DATA/ventilator.json. Date on new data was 2020-05-06.
+
+2020-05-06 - 13:31:57 - Succesfully wrote new data to file ../public/DATA/totals.json. Date on new data was 2020-05-06.
+
+2020-05-06 - 13:31:57 - Failed to write new dat to file ../public/DATA/critical.json. Date on old data was 2010/0/1. On new data .
+
+2020-05-06 - 14:07:38 - Failed to write new dat to file ../public/DATA/uci.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:07:38 - Failed to write new dat to file ../public/DATA/testing.json. Date on old data was 2020/05/06. On new data 2020/05/06.
+
+2020-05-06 - 14:07:39 - Failed to write new dat to file ../public/DATA/comunal.json. Date on old data was 2020/05/04. On new data 2020/05/04.
+
+2020-05-06 - 14:07:39 - Failed to write new dat to file ../public/DATA/regional.json. Date on old data was 2020/05/01. On new data 2020/05/01.
+
+2020-05-06 - 14:07:40 - Failed to write new dat to file ../public/DATA/ventilator.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:07:40 - Failed to write new dat to file ../public/DATA/totals.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:07:41 - Failed to write new dat to file ../public/DATA/critical.json. Date on old data was 2010/0/1. On new data .
+
+2020-05-06 - 14:13:43 - Failed to write new dat to file ../public/DATA/uci.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:13:44 - Failed to write new dat to file ../public/DATA/testing.json. Date on old data was 2020/05/06. On new data 2020/05/06.
+
+2020-05-06 - 14:13:44 - Failed to write new dat to file ../public/DATA/comunal.json. Date on old data was 2020/05/04. On new data 2020/05/04.
+
+2020-05-06 - 14:13:45 - Failed to write new dat to file ../public/DATA/regional.json. Date on old data was 2020/05/01. On new data 2020/05/01.
+
+2020-05-06 - 14:13:45 - Failed to write new dat to file ../public/DATA/ventilator.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:13:46 - Failed to write new dat to file ../public/DATA/totals.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:15:24 - Failed to write new dat to file ../public/DATA/uci.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:15:25 - Failed to write new dat to file ../public/DATA/testing.json. Date on old data was 2020/05/06. On new data 2020/05/06.
+
+2020-05-06 - 14:15:25 - Failed to write new dat to file ../public/DATA/comunal.json. Date on old data was 2020/05/04. On new data 2020/05/04.
+
+2020-05-06 - 14:15:25 - Failed to write new dat to file ../public/DATA/regional.json. Date on old data was 2020/05/01. On new data 2020/05/01.
+
+2020-05-06 - 14:15:25 - Failed to write new dat to file ../public/DATA/ventilator.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:15:25 - Failed to write new dat to file ../public/DATA/totals.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:15:25 - Succesfully wrote new data to file ../public/DATA/critical.json. Date on new data was 2020-05-06.
+
+2020-05-06 - 14:16:03 - Failed to write new dat to file ../public/DATA/uci.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:16:03 - Failed to write new dat to file ../public/DATA/testing.json. Date on old data was 2020/05/06. On new data 2020/05/06.
+
+2020-05-06 - 14:16:03 - Failed to write new dat to file ../public/DATA/comunal.json. Date on old data was 2020/05/04. On new data 2020/05/04.
+
+2020-05-06 - 14:16:03 - Failed to write new dat to file ../public/DATA/regional.json. Date on old data was 2020/05/01. On new data 2020/05/01.
+
+2020-05-06 - 14:16:03 - Failed to write new dat to file ../public/DATA/ventilator.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:16:04 - Failed to write new dat to file ../public/DATA/totals.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:16:04 - Failed to write new dat to file ../public/DATA/critical.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:17:27 - Failed to write new dat to file ../public/DATA/uci.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:17:27 - Failed to write new dat to file ../public/DATA/testing.json. Date on old data was 2020/05/06. On new data 2020/05/06.
+
+2020-05-06 - 14:17:27 - Failed to write new dat to file ../public/DATA/comunal.json. Date on old data was 2020/05/04. On new data 2020/05/04.
+
+2020-05-06 - 14:17:28 - Failed to write new dat to file ../public/DATA/regional.json. Date on old data was 2020/05/01. On new data 2020/05/01.
+
+2020-05-06 - 14:17:28 - Failed to write new dat to file ../public/DATA/ventilator.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:17:28 - Failed to write new dat to file ../public/DATA/totals.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:17:28 - Failed to write new dat to file ../public/DATA/critical.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:21:14 - Succesfully wrote new data to file ../public/DATA/uci.json. Date on new data was 2020-05-06.
+
+2020-05-06 - 14:21:15 - Succesfully wrote new data to file ../public/DATA/testing.json. Date on new data was 2020/05/06.
+
+2020-05-06 - 14:21:15 - Succesfully wrote new data to file ../public/DATA/comunal.json. Date on new data was 2020/05/04.
+
+2020-05-06 - 14:21:15 - Succesfully wrote new data to file ../public/DATA/regional.json. Date on new data was 2020/05/01.
+
+2020-05-06 - 14:21:16 - Succesfully wrote new data to file ../public/DATA/ventilator.json. Date on new data was 2020-05-06.
+
+2020-05-06 - 14:21:16 - Succesfully wrote new data to file ../public/DATA/totals.json. Date on new data was 2020-05-06.
+
+2020-05-06 - 14:21:16 - Succesfully wrote new data to file ../public/DATA/critical.json. Date on new data was 2020-05-06.
+
+2020-05-06 - 14:21:44 - Failed to write new dat to file ../public/DATA/uci.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:21:44 - Failed to write new dat to file ../public/DATA/testing.json. Date on old data was 2020/05/06. On new data 2020/05/06.
+
+2020-05-06 - 14:21:44 - Failed to write new dat to file ../public/DATA/comunal.json. Date on old data was 2020/05/04. On new data 2020/05/04.
+
+2020-05-06 - 14:21:44 - Failed to write new dat to file ../public/DATA/regional.json. Date on old data was 2020/05/01. On new data 2020/05/01.
+
+2020-05-06 - 14:21:44 - Failed to write new dat to file ../public/DATA/ventilator.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:21:45 - Failed to write new dat to file ../public/DATA/totals.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:21:45 - Failed to write new dat to file ../public/DATA/critical.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:22:12 - Failed to write new dat to file ../public/DATA/uci.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:22:13 - Failed to write new dat to file ../public/DATA/testing.json. Date on old data was 2020/05/06. On new data 2020/05/06.
+
+2020-05-06 - 14:22:13 - Failed to write new dat to file ../public/DATA/comunal.json. Date on old data was 2020/05/04. On new data 2020/05/04.
+
+2020-05-06 - 14:22:13 - Failed to write new dat to file ../public/DATA/regional.json. Date on old data was 2020/05/01. On new data 2020/05/01.
+
+2020-05-06 - 14:22:13 - Failed to write new dat to file ../public/DATA/ventilator.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:22:13 - Failed to write new dat to file ../public/DATA/totals.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:22:14 - Failed to write new dat to file ../public/DATA/critical.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:22:50 - Failed to write new dat to file ../public/DATA/uci.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:22:51 - Failed to write new dat to file ../public/DATA/testing.json. Date on old data was 2020/05/06. On new data 2020/05/06.
+
+2020-05-06 - 14:22:51 - Failed to write new dat to file ../public/DATA/comunal.json. Date on old data was 2020/05/04. On new data 2020/05/04.
+
+2020-05-06 - 14:22:51 - Failed to write new dat to file ../public/DATA/regional.json. Date on old data was 2020/05/01. On new data 2020/05/01.
+
+2020-05-06 - 14:22:51 - Failed to write new dat to file ../public/DATA/ventilator.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:22:51 - Failed to write new dat to file ../public/DATA/totals.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:22:51 - Failed to write new dat to file ../public/DATA/critical.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:23:29 - Failed to write new dat to file ../public/DATA/uci.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:23:29 - Failed to write new dat to file ../public/DATA/testing.json. Date on old data was 2020/05/06. On new data 2020/05/06.
+
+2020-05-06 - 14:23:30 - Failed to write new dat to file ../public/DATA/comunal.json. Date on old data was 2020/05/04. On new data 2020/05/04.
+
+2020-05-06 - 14:23:30 - Failed to write new dat to file ../public/DATA/regional.json. Date on old data was 2020/05/01. On new data 2020/05/01.
+
+2020-05-06 - 14:23:30 - Failed to write new dat to file ../public/DATA/ventilator.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:23:30 - Failed to write new dat to file ../public/DATA/totals.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:23:30 - Failed to write new dat to file ../public/DATA/critical.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:23:49 - Failed to write new dat to file ../public/DATA/uci.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:23:49 - Failed to write new dat to file ../public/DATA/testing.json. Date on old data was 2020/05/06. On new data 2020/05/06.
+
+2020-05-06 - 14:23:50 - Failed to write new dat to file ../public/DATA/comunal.json. Date on old data was 2020/05/04. On new data 2020/05/04.
+
+2020-05-06 - 14:23:50 - Failed to write new dat to file ../public/DATA/regional.json. Date on old data was 2020/05/01. On new data 2020/05/01.
+
+2020-05-06 - 14:23:50 - Failed to write new dat to file ../public/DATA/ventilator.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:23:51 - Failed to write new dat to file ../public/DATA/totals.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:23:51 - Failed to write new dat to file ../public/DATA/critical.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:25:46 - Failed to write new dat to file ../public/DATA/uci.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:25:47 - Failed to write new dat to file ../public/DATA/testing.json. Date on old data was 2020/05/06. On new data 2020/05/06.
+
+2020-05-06 - 14:25:47 - Failed to write new dat to file ../public/DATA/comunal.json. Date on old data was 2020/05/04. On new data 2020/05/04.
+
+2020-05-06 - 14:25:47 - Failed to write new dat to file ../public/DATA/regional.json. Date on old data was 2020/05/01. On new data 2020/05/01.
+
+2020-05-06 - 14:25:47 - Failed to write new dat to file ../public/DATA/ventilator.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:25:47 - Failed to write new dat to file ../public/DATA/totals.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:25:48 - Failed to write new dat to file ../public/DATA/critical.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:25:48 - Succesfully wrote new data to file ../public/DATA/mainPage.json. Date on new data was 2020-05-06.
+
+2020-05-06 - 14:45:09 - Failed to write new dat to file ../public/DATA/uci.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:45:09 - Failed to write new dat to file ../public/DATA/testing.json. Date on old data was 2020/05/06. On new data 2020/05/06.
+
+2020-05-06 - 14:45:10 - Failed to write new dat to file ../public/DATA/comunal.json. Date on old data was 2020/05/04. On new data 2020/05/04.
+
+2020-05-06 - 14:45:10 - Succesfully wrote new data to file ../public/DATA/regional.json. Date on new data was 2020/05/01.
+
+2020-05-06 - 14:45:11 - Failed to write new dat to file ../public/DATA/ventilator.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:45:11 - Failed to write new dat to file ../public/DATA/totals.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:45:11 - Failed to write new dat to file ../public/DATA/critical.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 14:45:11 - Failed to write new dat to file ../public/DATA/mainPage.json. Date on old data was 2020-05-06. On new data 2020-05-06.
+
+2020-05-06 - 15:52:49 - Succesfully wrote new data to file ../server/DATA/uci.json. Date on new data was 2020-05-06.
+
+2020-05-06 - 15:52:49 - Succesfully wrote new data to file ../server/DATA/testing.json. Date on new data was 2020/05/06.
+
+2020-05-06 - 15:52:49 - Succesfully wrote new data to file ../server/DATA/comunal.json. Date on new data was 2020/05/04.
+
+2020-05-06 - 15:52:50 - Succesfully wrote new data to file ../server/DATA/regional.json. Date on new data was 2020/05/01.
+
+2020-05-06 - 15:52:50 - Succesfully wrote new data to file ../server/DATA/ventilator.json. Date on new data was 2020-05-06.
+
+2020-05-06 - 15:52:51 - Succesfully wrote new data to file ../server/DATA/totals.json. Date on new data was 2020-05-06.
+
+2020-05-06 - 15:52:51 - Succesfully wrote new data to file ../server/DATA/critical.json. Date on new data was 2020-05-06.
+
+2020-05-06 - 15:52:51 - Succesfully wrote new data to file ../server/DATA/mainPage.json. Date on new data was 2020-05-06.
+
+2020-05-08 - 19:27:24 - Succesfully wrote new data to file ../web/DATA/uci.json. Date on new data was 2020-05-08.
+
+2020-05-08 - 19:27:25 - Succesfully wrote new data to file ../web/DATA/testing.json. Date on new data was 2020/05/08.
+
+2020-05-08 - 19:27:25 - Succesfully wrote new data to file ../web/DATA/comunal.json. Date on new data was 2020/05/04.
+
+2020-05-08 - 19:27:26 - Succesfully wrote new data to file ../web/DATA/regional.json. Date on new data was 2020/05/01.
+
+2020-05-08 - 19:27:26 - Succesfully wrote new data to file ../web/DATA/ventilator.json. Date on new data was 2020-05-08.
+
+2020-05-08 - 19:27:27 - Succesfully wrote new data to file ../web/DATA/totals.json. Date on new data was 2020-05-08.
+
+2020-05-08 - 19:27:27 - Succesfully wrote new data to file ../web/DATA/critical.json. Date on new data was 2020-05-08.
+
+2020-05-08 - 19:27:27 - Succesfully wrote new data to file ../web/DATA/mainPage.json. Date on new data was 2020-05-08.
+
+2020-05-09 - 00:53:51 - Succesfully wrote new data to file ../DATA/uci.json. Date on new data was 2020-05-08.
+
+2020-05-09 - 00:53:52 - Succesfully wrote new data to file ../DATA/testing.json. Date on new data was 2020/05/08.
+
+2020-05-09 - 00:53:53 - Succesfully wrote new data to file ../DATA/comunal.json. Date on new data was 2020/05/04.
+
+2020-05-09 - 00:53:53 - Succesfully wrote new data to file ../DATA/regional.json. Date on new data was 2020/05/01.
+
+2020-05-09 - 00:53:54 - Succesfully wrote new data to file ../DATA/ventilator.json. Date on new data was 2020-05-08.
+
+2020-05-09 - 00:53:54 - Succesfully wrote new data to file ../DATA/totals.json. Date on new data was 2020-05-08.
+
+2020-05-09 - 00:53:55 - Succesfully wrote new data to file ../DATA/critical.json. Date on new data was 2020-05-08.
+
+2020-05-09 - 01:01:32 - Failed to write new dat to file ../DATA/uci.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-09 - 01:01:33 - Failed to write new dat to file ../DATA/testing.json. Date on old data was 2020/05/08. On new data 2020/05/08.
+
+2020-05-09 - 01:01:34 - Failed to write new dat to file ../DATA/comunal.json. Date on old data was 2020/05/04. On new data 2020/05/04.
+
+2020-05-09 - 01:01:34 - Failed to write new dat to file ../DATA/regional.json. Date on old data was 2020/05/01. On new data 2020/05/01.
+
+2020-05-09 - 01:01:34 - Failed to write new dat to file ../DATA/ventilator.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-09 - 01:01:35 - Failed to write new dat to file ../DATA/totals.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-09 - 01:01:35 - Failed to write new dat to file ../DATA/critical.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-09 - 01:01:35 - Succesfully wrote new data to file ../DATA/mainPage.json. Date on new data was 2020-05-08.
+
+2020-05-08 - 22:47:09 - Succesfully wrote new data to file ../DATA/uci.json. Date on new data was 2020-05-08.
+
+2020-05-08 - 22:47:09 - Succesfully wrote new data to file ../DATA/testing.json. Date on new data was 2020/05/08.
+
+2020-05-08 - 22:47:10 - Succesfully wrote new data to file ../DATA/comunal.json. Date on new data was 2020/05/04.
+
+2020-05-08 - 22:47:10 - Succesfully wrote new data to file ../DATA/regional.json. Date on new data was 2020/05/01.
+
+2020-05-08 - 22:47:11 - Succesfully wrote new data to file ../DATA/ventilator.json. Date on new data was 2020-05-08.
+
+2020-05-08 - 22:47:11 - Succesfully wrote new data to file ../DATA/totals.json. Date on new data was 2020-05-08.
+
+2020-05-08 - 22:47:11 - Succesfully wrote new data to file ../DATA/critical.json. Date on new data was 2020-05-08.
+
+2020-05-08 - 22:47:22 - Failed to write new dat to file ../DATA/uci.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-08 - 22:47:22 - Failed to write new dat to file ../DATA/testing.json. Date on old data was 2020/05/08. On new data 2020/05/08.
+
+2020-05-08 - 22:47:22 - Failed to write new dat to file ../DATA/comunal.json. Date on old data was 2020/05/04. On new data 2020/05/04.
+
+2020-05-08 - 22:47:22 - Failed to write new dat to file ../DATA/regional.json. Date on old data was 2020/05/01. On new data 2020/05/01.
+
+2020-05-08 - 22:47:22 - Failed to write new dat to file ../DATA/ventilator.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-08 - 22:47:23 - Failed to write new dat to file ../DATA/totals.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-08 - 22:47:23 - Failed to write new dat to file ../DATA/critical.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-08 - 22:49:29 - Failed to write new dat to file ../DATA/uci.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-08 - 22:49:29 - Failed to write new dat to file ../DATA/testing.json. Date on old data was 2020/05/08. On new data 2020/05/08.
+
+2020-05-08 - 22:49:29 - Failed to write new dat to file ../DATA/comunal.json. Date on old data was 2020/05/04. On new data 2020/05/04.
+
+2020-05-08 - 22:49:30 - Failed to write new dat to file ../DATA/regional.json. Date on old data was 2020/05/01. On new data 2020/05/01.
+
+2020-05-08 - 22:49:30 - Failed to write new dat to file ../DATA/ventilator.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-08 - 22:49:30 - Failed to write new dat to file ../DATA/totals.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-08 - 22:49:30 - Failed to write new dat to file ../DATA/critical.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-08 - 22:49:40 - Failed to write new dat to file ../DATA/uci.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-08 - 22:49:41 - Failed to write new dat to file ../DATA/testing.json. Date on old data was 2020/05/08. On new data 2020/05/08.
+
+2020-05-08 - 22:49:41 - Failed to write new dat to file ../DATA/comunal.json. Date on old data was 2020/05/04. On new data 2020/05/04.
+
+2020-05-08 - 22:49:41 - Failed to write new dat to file ../DATA/regional.json. Date on old data was 2020/05/01. On new data 2020/05/01.
+
+2020-05-08 - 22:49:41 - Failed to write new dat to file ../DATA/ventilator.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-08 - 22:49:41 - Failed to write new dat to file ../DATA/totals.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-08 - 22:49:42 - Failed to write new dat to file ../DATA/critical.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-08 - 22:50:41 - Failed to write new dat to file ../DATA/uci.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-08 - 22:50:42 - Failed to write new dat to file ../DATA/testing.json. Date on old data was 2020/05/08. On new data 2020/05/08.
+
+2020-05-08 - 22:50:42 - Failed to write new dat to file ../DATA/comunal.json. Date on old data was 2020/05/04. On new data 2020/05/04.
+
+2020-05-08 - 22:50:42 - Failed to write new dat to file ../DATA/regional.json. Date on old data was 2020/05/01. On new data 2020/05/01.
+
+2020-05-08 - 22:50:42 - Failed to write new dat to file ../DATA/ventilator.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-08 - 22:50:42 - Failed to write new dat to file ../DATA/totals.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-08 - 22:50:42 - Failed to write new dat to file ../DATA/critical.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-08 - 22:50:53 - Failed to write new dat to file ../DATA/uci.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-08 - 22:50:53 - Failed to write new dat to file ../DATA/testing.json. Date on old data was 2020/05/08. On new data 2020/05/08.
+
+2020-05-08 - 22:50:53 - Failed to write new dat to file ../DATA/comunal.json. Date on old data was 2020/05/04. On new data 2020/05/04.
+
+2020-05-08 - 22:50:53 - Failed to write new dat to file ../DATA/regional.json. Date on old data was 2020/05/01. On new data 2020/05/01.
+
+2020-05-08 - 22:50:53 - Failed to write new dat to file ../DATA/ventilator.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-08 - 22:50:54 - Failed to write new dat to file ../DATA/totals.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-08 - 22:50:54 - Failed to write new dat to file ../DATA/critical.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-08 - 22:50:54 - Succesfully wrote new data to file ../DATA/mainPage.json. Date on new data was 2020-05-08.
+
+2020-05-08 - 22:51:04 - Failed to write new dat to file ../DATA/uci.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-08 - 22:51:04 - Failed to write new dat to file ../DATA/testing.json. Date on old data was 2020/05/08. On new data 2020/05/08.
+
+2020-05-08 - 22:51:04 - Failed to write new dat to file ../DATA/comunal.json. Date on old data was 2020/05/04. On new data 2020/05/04.
+
+2020-05-08 - 22:51:05 - Failed to write new dat to file ../DATA/regional.json. Date on old data was 2020/05/01. On new data 2020/05/01.
+
+2020-05-08 - 22:51:05 - Failed to write new dat to file ../DATA/ventilator.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-08 - 22:51:05 - Failed to write new dat to file ../DATA/totals.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-08 - 22:51:05 - Failed to write new dat to file ../DATA/critical.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-08 - 22:51:05 - Failed to write new dat to file ../DATA/mainPage.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-08 - 22:51:15 - Failed to write new dat to file ../DATA/uci.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-08 - 22:51:15 - Failed to write new dat to file ../DATA/testing.json. Date on old data was 2020/05/08. On new data 2020/05/08.
+
+2020-05-08 - 22:51:16 - Failed to write new dat to file ../DATA/comunal.json. Date on old data was 2020/05/04. On new data 2020/05/04.
+
+2020-05-08 - 22:51:16 - Failed to write new dat to file ../DATA/regional.json. Date on old data was 2020/05/01. On new data 2020/05/01.
+
+2020-05-08 - 22:51:16 - Failed to write new dat to file ../DATA/ventilator.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-08 - 22:51:16 - Failed to write new dat to file ../DATA/totals.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-08 - 22:51:16 - Failed to write new dat to file ../DATA/critical.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-08 - 22:51:16 - Failed to write new dat to file ../DATA/mainPage.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-08 - 22:51:27 - Failed to write new dat to file ../DATA/uci.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-08 - 22:51:27 - Failed to write new dat to file ../DATA/testing.json. Date on old data was 2020/05/08. On new data 2020/05/08.
+
+2020-05-08 - 22:51:27 - Failed to write new dat to file ../DATA/comunal.json. Date on old data was 2020/05/04. On new data 2020/05/04.
+
+2020-05-08 - 22:51:27 - Failed to write new dat to file ../DATA/regional.json. Date on old data was 2020/05/01. On new data 2020/05/01.
+
+2020-05-08 - 22:51:27 - Failed to write new dat to file ../DATA/ventilator.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-08 - 22:51:28 - Failed to write new dat to file ../DATA/totals.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-08 - 22:51:28 - Failed to write new dat to file ../DATA/critical.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-08 - 22:51:28 - Failed to write new dat to file ../DATA/mainPage.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-08 - 23:11:40 - Failed to write new dat to file ../DATA/uci.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-08 - 23:11:40 - Failed to write new dat to file ../DATA/testing.json. Date on old data was 2020/05/08. On new data 2020/05/08.
+
+2020-05-08 - 23:11:41 - Failed to write new dat to file ../DATA/comunal.json. Date on old data was 2020/05/04. On new data 2020/05/04.
+
+2020-05-08 - 23:11:41 - Failed to write new dat to file ../DATA/regional.json. Date on old data was 2020/05/01. On new data 2020/05/01.
+
+2020-05-08 - 23:11:41 - Failed to write new dat to file ../DATA/ventilator.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-08 - 23:11:41 - Failed to write new dat to file ../DATA/totals.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-08 - 23:11:41 - Failed to write new dat to file ../DATA/critical.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-08 - 23:12:27 - Failed to write new dat to file ../DATA/uci.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-08 - 23:12:27 - Failed to write new dat to file ../DATA/testing.json. Date on old data was 2020/05/08. On new data 2020/05/08.
+
+2020-05-08 - 23:12:28 - Failed to write new dat to file ../DATA/comunal.json. Date on old data was 2020/05/04. On new data 2020/05/04.
+
+2020-05-08 - 23:12:28 - Failed to write new dat to file ../DATA/regional.json. Date on old data was 2020/05/01. On new data 2020/05/01.
+
+2020-05-08 - 23:12:28 - Failed to write new dat to file ../DATA/ventilator.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-08 - 23:12:28 - Failed to write new dat to file ../DATA/totals.json. Date on old data was 2020-05-08. On new data 2020-05-08.
+
+2020-05-08 - 23:12:28 - Failed to write new dat to file ../DATA/critical.json. Date on old data was 2020-05-08. On new data 2020-05-08.
