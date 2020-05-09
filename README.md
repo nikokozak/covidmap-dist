@@ -1,5 +1,7 @@
 # Dockerized SARS-COV-2 Tracker (Chile)
 
+![](./gifs/./site_interaction_1.gif) ![](./gifs/./site_interaction_2.gif)
+
 ### What do I do?
 
 This is a quick and dirty project I undertook to get familiarized with Docker and data-scraping in Python.

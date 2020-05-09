@@ -18,7 +18,7 @@ server/product*
 /scraper/lib
 /scraper/lib64
 /scraper/share
-
+/gifs/
 # local env files
 .env.local
 .env.*.local
