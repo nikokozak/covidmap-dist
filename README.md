@@ -4,7 +4,9 @@
 
 ### What do I do?
 
-This is a quick and dirty project I undertook to get familiarized with Docker and data-scraping in Python.
+This is a quick and dirty project I undertook to get familiarized with Docker and data-scraping in Python. The result is a full deployment ready COVID tracker that lives in two docker containers. The chart was built with vanilla D3 - it takes multiple datasets, compares them, re-computes its scales and generators, and animates into the new overall state. Helplines are drawn as the user hovers across these datapoints - the numbers and date on the legend change to reflect the user's position. Datasets can be added and removed dynamically.
+
+The main chart coalesces disparate sources of information into one understandable page. The delta for some measurements is calculated, as well as the mean for others.
 
 ### Play with me
 
