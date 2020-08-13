@@ -1,3 +1,5 @@
+Note - breaking changes by Ministry of Health reporting renders this an archival repository only.
+
 # Dockerized SARS-COV-2 Tracker (Chile)
 
 ![](./gifs/./site_interaction_1.gif) ![](./gifs/./site_interaction_2.gif)
