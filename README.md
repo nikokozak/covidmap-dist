@@ -1,4 +1,4 @@
-Note - breaking changes by Ministry of Health reporting renders this an archival repository only.
+#####Note - breaking changes by Ministry of Health reporting renders this an archival repository only.
 
 # Dockerized SARS-COV-2 Tracker (Chile)
 
